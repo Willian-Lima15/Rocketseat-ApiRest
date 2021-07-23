@@ -1,2 +1,2 @@
 # Rocketseat-ApiRest
-Uma Api simples pra consulta didatica
+Uma Api simples usando GET, POST, PUT e DELETE
